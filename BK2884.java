@@ -25,6 +25,7 @@ public class BK2884 {
 			hour--;
 			minute = 60 + minute - 45;
 		}
+		
 		System.out.println(hour);
 		System.out.println(minute);
 	}
