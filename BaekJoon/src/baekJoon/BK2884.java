@@ -13,6 +13,7 @@ public class BK2884 {
 		int minute;
 		time = sc.nextLine().split(" ");
 
+		
 		hour = Integer.parseInt(time[0]);
 		minute = Integer.parseInt(time[1]);
 
