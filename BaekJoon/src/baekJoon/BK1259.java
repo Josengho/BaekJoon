@@ -9,8 +9,6 @@ public class BK1259 {
 		int length;
 		String input;
 		
-
-		
 		while (true) {
 			input = sc.nextLine();
 			length = input.length();
@@ -37,7 +35,5 @@ public class BK1259 {
 				}
 			}
 		}
-
 	}
-
 }
